@@ -2,7 +2,7 @@ import ChromeDinoGame from 'react-chrome-dino';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <ChromeDinoGame />
     </div>
   );
